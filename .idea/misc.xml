@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../.gradle/caches/transforms-3/4b524e4ae54fe8329b7692ef768decf8/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.4244791666666667" />
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.4244791666666667" />
+        <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.4244791666666667" />
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/spinner_bg.xml" value="0.299" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.360054347826087" />
+        <entry key="app/src/main/res/layout/spinner_item.xml" value="0.4244791666666667" />
       </map>
     </option>
   </component>

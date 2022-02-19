@@ -1,3 +1,11 @@
+<!--
+  ~ /**
+  ~  * Created by Abhinav Maurya on 20/02/22, 12:24 AM for ETAOP Pvt Ltd
+  ~  * Copyright (c) 2022 . All rights reserved.
+  ~  * Last modified 19/02/22, 10:04 PM
+  ~  */
+  -->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.DropDownSpinnerExampleKotlin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
@@ -12,6 +20,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/black</item>
     </style>
 
 </resources>
